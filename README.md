@@ -34,6 +34,7 @@ Designed a button microinteraction showing different states (default, loading, s
 ## 🎯 Learning Outcomes
 
 Through this internship, I gained hands-on experience in:
+
 • UI layout structuring
 • Visual hierarchy and spacing
 • Color theory and typography
