@@ -1,5 +1,5 @@
 
-# 🎓 Cognifyz Project
+# 🎓 Cognifyz UI/UX Project
 
 ---
 
