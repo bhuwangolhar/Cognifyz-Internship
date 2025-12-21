@@ -42,7 +42,7 @@ Through this internship, I gained hands-on experience in:
 • Creating clean, user-friendly interfaces
 • Using Figma effectively for UI/UX design workflows
 
---
+---
 
 Completed a **UI/UX Design Internship at Cognifyz Technologies**, where I worked on multiple UI design tasks using Figma, focusing on usability, consistency, and modern design practices.
 
